@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F8n6Il8PhVKUmAWFg/TCnPbUoLHE41wP0/NyFL+LtVQ=",
+  "Source": "ClientApp",
+  "BasePath": "_content/ClientApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
